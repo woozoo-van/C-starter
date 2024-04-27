@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="First.cpp">
+    <ClCompile Include="variable.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
