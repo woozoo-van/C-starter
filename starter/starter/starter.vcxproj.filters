@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variable.cpp">
+    <ClCompile Include="operator.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>

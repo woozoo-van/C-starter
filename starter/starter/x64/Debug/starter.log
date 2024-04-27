@@ -1,9 +1,4 @@
-﻿  variable.cpp
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(58,10): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(59,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(85,6): warning C4305: '=': truncation from 'int' to 'bool'
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(50,16): warning C4101: 'e': unreferenced local variable
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(51,21): warning C4101: 'f': unreferenced local variable
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(82,7): warning C4101: 'l': unreferenced local variable
-C:\Users\USER\source\repos\starter-series\starter\starter\variable.cpp(48,15): warning C4101: 'c': unreferenced local variable
+﻿  operator.cpp
+C:\Users\USER\source\repos\starter-series\starter\starter\operator.cpp(12,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\USER\source\repos\starter-series\starter\starter\operator.cpp(27,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   starter.vcxproj -> C:\Users\USER\source\repos\starter-series\starter\x64\Debug\starter.exe
