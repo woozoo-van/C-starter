@@ -1,4 +1,3 @@
-﻿  operator.cpp
-C:\Users\USER\source\repos\starter-series\starter\starter\operator.cpp(12,20): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\USER\source\repos\starter-series\starter\starter\operator.cpp(27,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+﻿  array.cpp
+C:\Users\USER\source\repos\starter-series\starter\starter\array.cpp(66,7): warning C4101: 'char1': unreferenced local variable
   starter.vcxproj -> C:\Users\USER\source\repos\starter-series\starter\x64\Debug\starter.exe

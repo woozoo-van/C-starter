@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\starter-series\\starter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41501130-2615-4212-A4B0-1C54DD1F31D9}|starter\\starter.vcxproj|C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{41501130-2615-4212-A4B0-1C54DD1F31D9}|starter\\starter.vcxproj|solutionrelative:starter\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{41501130-2615-4212-A4B0-1C54DD1F31D9}|starter\\starter.vcxproj|C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41501130-2615-4212-A4B0-1C54DD1F31D9}|starter\\starter.vcxproj|solutionrelative:starter\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "operator.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\operator.cpp",
-              "RelativeDocumentMoniker": "starter\\operator.cpp",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\operator.cpp",
-              "RelativeToolTip": "starter\\operator.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAcwC4AAAAVAAAA",
+              "Title": "array.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\array.cpp",
+              "RelativeDocumentMoniker": "starter\\array.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\starter-series\\starter\\starter\\array.cpp",
+              "RelativeToolTip": "starter\\array.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-27T14:45:30.486Z",
+              "WhenOpened": "2024-04-29T07:26:24.722Z",
               "EditorCaption": ""
             }
           ]
